@@ -1,0 +1,12 @@
+tr.completed {
+  background-color: #a191ae
+}
+
+a {
+  color: rgb(179, 187, 193);
+  text-decoration: none;
+}
+a:hover {
+   color: rgb(164, 164, 173);
+   text-decoration: none;
+}
